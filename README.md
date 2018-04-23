@@ -1,0 +1,1 @@
+# Adidas-confirmed-account-gen
