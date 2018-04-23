@@ -1,0 +1,14 @@
+{
+    "debug": false,
+    "use_proxies": false,
+    "numofAccounts": 1,
+
+    "accountInfo": {
+        "catchall": "@euph.co",
+        "password": "abcabc123",
+        "region": "US"
+    },
+    "smspva": {
+        "apikey": ""
+    }
+}
